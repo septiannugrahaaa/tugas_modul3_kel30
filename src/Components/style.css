@@ -1,0 +1,63 @@
+button1{
+    background-color:#3144e7f1;
+    color: rgb(9, 6, 58);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    border-width: 1px;
+    font-size: 14px;
+  }
+  button2{
+    background-color:#000000f1;
+    color: rgb(255, 255, 255);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    border-width: 1px;
+    font-size: 14px;
+  }
+
+  button3{
+    background-color:#3144e7f1;
+    color: rgb(255, 255, 255);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    border-width: 1px;
+    font-size: 14px;
+  }
+
+  button4{
+    background-color:#ccc5c5f1;
+    color: #3144e7f1;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    border-width: 1px;
+    font-size: 14px;
+  }
+
+  button5{
+    background-color:#0d239cf1;
+    color: rgb(255, 255, 255);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    border-width: 1px;
+    font-size: 14px;
+  }
